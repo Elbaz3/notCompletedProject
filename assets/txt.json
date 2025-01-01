@@ -1,0 +1,31 @@
+[{
+    "name" : "Ahmed",
+    "age" : 22,
+    "id" : 30302012215794,
+    "nationality" : "Egyptian",
+    "married" : false,
+    "education" : "Bachelor of Computer Science",
+    "hight" : 182,
+    "weight" : 76,
+    "status" : "Unemployed",
+    "addresses" : {
+        "Damietta" : "New Damietta",
+        "Mansoura" : "Bilqas"
+    }
+},
+{
+    "name" : "Yousef",
+    "age" : 21,
+    "id" : 30302015365846,
+    "nationality" : "Egyptian",
+    "married" : true,
+    "education" : "Bachelor of Computer Science",
+    "hight" : 165,
+    "weight" : 66,
+    "status" : "Unemployed",
+    "addresses" : {
+        "Damietta" : "Ez zarqa",
+        "Mansoura" : "Mansoura"
+    }
+}
+]
